@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Megan
+- 👀 I’m interested in ... Cyber Security
+- 🌱 I’m currently learning ... Computer Science at the University of Alabama
+- 📫 How to reach me ... mgmulcahy@crimson.ua.edu
